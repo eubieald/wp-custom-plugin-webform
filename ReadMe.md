@@ -22,7 +22,7 @@ The Simple Contact Form plugin allows you to easily add a contact form to your W
 
 ## Usage
 
-To add the contact form to a page or post, simply use the `[web_form]` shortcode.
+To add the contact form to a page or post, simply use the `[mgroup-web-form]` shortcode.
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ To add the contact form to a page or post, simply use the `[web_form]` shortcode
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/your-username/simple-contact-form-plugin/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/eubieald/wp-custom-plugin-webform/issues) on GitHub.
 
 ## Contributing
 
