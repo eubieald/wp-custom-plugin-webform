@@ -30,7 +30,14 @@ To add the contact form to a page or post, simply use the `[mgroup-web-form]` sh
 
 ## Frequently Asked Questions
 
-[Include any frequently asked questions and their answers]
+How to run and test the code locally for developers?
+1. Setup a clean installation of Wordpress
+2. Go to wp-content/plugins/ folder of wordpress
+3. open terminal run this command `[git clone https://github.com/eubieald/wp-custom-plugin-webform.git]`
+inside the plugins/ folder
+4. cd to the root folder of the cloned plugin
+5. run `[npm install]`
+6. (Optional): if you want to test/compile the styles you can run `[gulp]` in the terminal
 
 ## Support
 
