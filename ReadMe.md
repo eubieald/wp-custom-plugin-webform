@@ -26,8 +26,7 @@ To add the contact form to a page or post, simply use the `[mgroup-web-form]` sh
 
 ## Screenshots
 ![alt text](<images/Screenshot 2024-05-06 at 9.34.45 PM.png>)
-![alt text](<images/Screenshot 2024-05-06 at 9.34.56 PM.png>)
-
+![alt text](<Screenshot 2024-05-06 at 9.42.20 PM.png>)
 
 ## Frequently Asked Questions
 
