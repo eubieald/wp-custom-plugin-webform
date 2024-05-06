@@ -1,0 +1,26 @@
+.mgroup-webform-leads-table {
+  width: 100%;
+  border-collapse: collapse; /* Collapse borders to prevent duplication */
+}
+.mgroup-webform-leads-table thead th {
+  border-bottom: 1px solid black; /* Add border to table header row */
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+.mgroup-webform-leads-table tbody td {
+  color: #555555;
+  text-align: center;
+  padding: 10px;
+}
+.mgroup-webform-leads-table tbody td.ta-left {
+  text-align: left;
+}
+.mgroup-webform-leads-table th {
+  border: 1px solid black; /* Add border to table header cells */
+  padding: 8px; /* Add padding for better readability */
+}
+.mgroup-webform-leads-table td {
+  border: 1px solid black; /* Add border to table data cells */
+  padding: 8px; /* Add padding for better readability */
+}

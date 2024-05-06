@@ -1,0 +1,44 @@
+// import admin style-admin.scss
+@import "variables.scss";
+@import "admin/style-admin.scss";
+
+body {
+  font-size: $theme-font-size;
+}
+
+.form-wrapper {
+  background-color: $theme-background-color;
+  padding: 10px 20px;
+  max-width: 800px;
+  width: 100%;
+}
+
+.greetings {
+  margin-bottom: 20px;
+}
+
+.web-form {
+  &__form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__input,
+  &__select,
+  &__submit {
+    padding: 10px 10px;
+  }
+
+  &__input,
+  &__select {
+    margin-bottom: 25px;
+  }
+
+  &__submit {
+    max-width: 100px;
+    margin-bottom: 0;
+    background-color: #cd2350;
+    color: white;
+    border: none;
+  }
+}
